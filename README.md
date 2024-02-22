@@ -1,6 +1,9 @@
 # todo-app
-[todoapp](https://zhaowend.github.io/todo/)
-展示接口在github上
+[直接访问](https://zhaowend.github.io/todo/)
+
+## 预览
+https://github.com/zhaowend/todo/assets/69566159/aa34ad44-7701-4e01-950d-e9a2c5ee16e6
+
 ## Project setup
 ```
 npm install
